@@ -31,8 +31,8 @@ Make Your Own Happy Birthday Animation Website Free
 > Blogger Free Website
 
 ............................................................
-> Demo: https://youtu.be/mxmmyKVsVzU
+> Video Demo: https://youtu.be/mxmmyKVsVzU
 
-> Website: https://birthday.ansnew.com/?name=Target_Names
+> Live Website: https://birthday.ansnew.com/?name=Target_Names
 
 > Thanks to codepen and other authors who made this beautiful animation. 
