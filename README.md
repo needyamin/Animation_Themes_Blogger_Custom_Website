@@ -35,4 +35,6 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 > Live Website: https://birthday.ansnew.com/?name=Target_Names
 
-> Thanks to codepen and other authors who made this beautiful animation. 
+
+
+Thanks to codepen and other authors who made this beautiful animation. 
