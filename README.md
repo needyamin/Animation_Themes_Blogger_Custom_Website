@@ -23,4 +23,7 @@ Make Your Own Happy Birthday Animation Website Free
 > Enjoy!
 
 
-Demo: https://youtu.be/mxmmyKVsVzU
+# Demo: https://youtu.be/mxmmyKVsVzU
+> Website: https://birthday.ansnew.com/?name=Target Names
+
+> Thanks to codepen and other authors who made this beautiful animation. 
