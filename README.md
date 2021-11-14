@@ -18,7 +18,7 @@ Make Your Own Happy Birthday Animation Website Free
 
 > After installation this theme, go to your own blog link and add ?name="TARGET NAME"
 
-> For example https://example.blogger.com/?name="Target_Names"
+> For example https://example.blogger.com/?name=Target_Names
 
 > Enjoy!
 
@@ -33,6 +33,6 @@ Make Your Own Happy Birthday Animation Website Free
 ............................................................
 > Demo: https://youtu.be/mxmmyKVsVzU
 
-> Website: https://birthday.ansnew.com/?name=Target Names
+> Website: https://birthday.ansnew.com/?name=Target_Names
 
 > Thanks to codepen and other authors who made this beautiful animation. 
