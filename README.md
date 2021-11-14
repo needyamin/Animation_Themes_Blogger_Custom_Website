@@ -1,24 +1,24 @@
 # Animation_Themes_Blogger_Custom_Website
-Make Your Own Happy Birthday Animation Website Free
+Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 # Hello World!
 > Are you looking for how to install this blogger templete?
 
 > At first go to https://blogger.com 
 
-> Create your own blog
+> Create your own blog [Do google if you don't know how to create blogger.com blogs]
 
 > Then go to "Theme" options
 
-> Click customize section, on the dropdown section you will find "Restore" option. Click on it
+> Click "Customize" Section, on the dropdown menu you will find "Restore" option. Click on it
 
 > Then choose this "Happy Birthday Animation Blogger Theme.xml" File and update...
 
 # How it works? 
 
-> After installation this theme, go to your own blog link and add ?name="TARGET NAME"
+> If you are already updated this theme then go to your own blog link and add this link [ ?name="TARGET NAME" ]
 
-> For example https://example.blogger.com/?name=Target_Names
+> For example link: https://example.blogger.com/?name=Target_Names
 
 > Enjoy!
 
