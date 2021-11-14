@@ -16,7 +16,7 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 # How it works? 
 
-> If you are already updated this theme then go to your own blog link and add this link [ ?name="TARGET NAME" ]
+> After updated this theme, go to your own blog link and add [ ?name="TARGET NAME" ]
 
 > For example link: https://example.blogger.com/?name=Target_Names
 
