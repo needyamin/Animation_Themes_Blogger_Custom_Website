@@ -23,7 +23,15 @@ Make Your Own Happy Birthday Animation Website Free
 > Enjoy!
 
 
-# Demo: https://youtu.be/mxmmyKVsVzU
+# Technology Used
+> Bootstrap v5.0
+
+> JavaScript
+
+> Blogger Free Website
+
+............................................................
+> Demo: https://youtu.be/mxmmyKVsVzU
 > Website: https://birthday.ansnew.com/?name=Target Names
 
 > Thanks to codepen and other authors who made this beautiful animation. 
