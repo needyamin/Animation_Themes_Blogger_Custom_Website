@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+ <head>
+   
+   <meta charset='utf-8'/>
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+    <meta content='' name='description'/>
+    <meta content='Mark Otto, Jacob Thornton, and Bootstrap contributors' name='author'/>
+    <meta content='Hugo 0.84.0' name='generator'/>
+    <title><data:blog.pageTitle/></title>
+    <link href='https://birthday.ansnew.com' rel='canonical'/> 
+    <meta content='Md. Yamin Hossain' name='author'/>
+    <meta content='It is my Birthday! Thanks For The Birthday Wishes Dear' name='description'/>
+    <meta content='happybirthday,theme,template,programmer,developer' name='keywords'/>  
+   
+   <!-- Meta For Facebook -->
+   <meta content='https://needyaminbirthday.blogspot.com/' property='og:url'/>
+   <meta content='article' property='og:type'/>
+   <meta content='Thanks For The Birthday Wishes!' property='og:title'/>
+   <meta content='It is my Birthday! Thanks For The Birthday Wishes Dear' property='og:description'/>
+   <meta content='https://1.bp.blogspot.com/-z6as_9sBhYY/YNQxG-86kYI/AAAAAAAAItU/YgD_dpNtjB0Ycd1J4D69ZQRm_oAd2wPWACLcBGAsYHQ/s1242/YAMiN.png' property='og:image'/>
+   
+ 
+
+
+   
+ <!-- Bootstrap core CSS -->
+ <script crossorigin='anonymous' integrity='sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p' src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js'/>
+  
+ <script crossorigin='anonymous' integrity='sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF' src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js'/>
+
+<link crossorigin='anonymous' href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css' integrity='sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3' rel='stylesheet'/>
+
+         
+</head>
+      
+  
+
+  
+ <!-- CSS CONTENTS START -->   
+<b:skin><![CDATA[
+
+
+
+
+]]></b:skin>              
+ <!-- CSS CONTENTS END --> 
+          
+  
+
+<!-- PAGE CONDITION -->
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<style> </style>
+</b:if>
+  
+<!-- POST CONDITION -->  
+<b:if cond='data:blog.pageType == &quot;item&quot;'>  
+<style> </style>
+</b:if>
+  
+<!-- HOMEPAGE CONDITION -->
+<b:if cond='data:blog.url == data:blog.homepageUrl'>   
+<style> </style>
+ 
+  
+  
+<!-- Mobile CONDITION START -->  
+<b:if cond='data:blog.isMobileRequest == &quot;true&quot;'>
+  
+  
+<script>
+ function preloadFunc(){  
+ window.addEventListener(&#39;load&#39;, function () {
+ homeLOAD() 
+    })
+   }
+  window.onpaint = preloadFunc();  
+ </script>
+  
+  
+  
+<b:else/>
+  
+  
+<script>
+ function preloadFunc(){  
+ window.addEventListener(&#39;load&#39;, function () {
+ homeLOAD() 
+    })
+   }
+  window.onpaint = preloadFunc();  
+ </script>
+  
+  
+</b:if>
+</b:if> 
+   
+<!-- Mobile CONDITION END -->  
+  
+  
+<!-- SEARCH Label CONDITION -->
+<b:if cond='data:blog.searchLabel'>
+<style>  </style>
+</b:if>
+ 
+
+  
+ <body>
+          
+ 
+   
+    
+   
+          
+<!-- BODY CONTENTS START -->
+
+
+<style> @import url(https://fonts.googleapis.com/css?family=Nobile:400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+:root {
+  --heart-icon-color: #ff6058;
+  --heart-icon-size: 7vw;
+}
+.bodyTTP {
+  background: white;
+  background-image: url(&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjPh7Cj2cYFZ9ENPwBllN1i_E3A2jYB0SZ-DrIvOSon7tvcVIaUE50yeQeUM8JZlLNuzNPZWLzuxtswlK3VG7Scu762uSZ1t5-nh08KEw-LPCxepJgzbVtxM9adsvWSOoJ_TcvXqiox2IZ9oJqD2JkBty3quIbpekZqfBKQi3uJxVz35k3BXYyqruev&quot;);
+	background-attachment: cover;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	
+}
+
+#card-front {
+  color: #FFDFDF;
+}
+
+#card, #card-front, #card-inside {
+  height: 480px;
+}
+
+.wrap {
+    padding: 0em 0em;
+    height: 100%;
+}
+#card-front, #card-inside {
+  width: 50%;
+	height: 90%;
+  -webkit-box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
+  -moz-box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .5);
+  position: absolute;
+  left: 50%;
+	right: 10%;
+}
+
+
+#card-inside .wrap {
+    background: #FFEFEF;
+    -webkit-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
+}
+#card {
+    max-width: 980px;
+    margin: 0 auto;
+    transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    perspective: 5000px;
+    -moz-perspective: 5000px;
+    -webkit-perspective: 5000px;
+    position: relative;
+}
+
+#card h1 {
+    text-align: center;
+    font-family: &#39;Nobile&#39;, sans-serif;
+    font-style: italic;
+    font-size: 6vh;
+    text-shadow: 
+        4px 4px 0px rgba(0, 0, 0, .15),
+        1px 1px 0 rgba(255, 200, 200, 255),
+        2px 2px 0 rgba(255, 150, 150, 255),
+        3px 3px 0 rgba(255, 125, 125, 255);
+    color: #FFF;
+}
+#card-inside {
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: &#39;Nobile&#39;;
+    color: #331717;
+    font-style: italic;
+}
+.text{
+	font-size: 0.9em;
+}
+@media(max-width: 470px){
+	.text{
+		font-size: 0.7em;
+		margin: 0;
+	}
+}
+.text:first-child {
+    margin-top: 0;
+}
+
+#card-front {
+    background-color: #FF5555&#165;;
+    background-image: linear-gradient(top, #FF5555 0%, lightsteelblue 100%);
+    background-image: -moz-linear-gradient(top, #ED4567 0%, lightsteelblue 100%);
+    background-image: -webkit-linear-gradient(top, #ED4567 0%, lightsteelblue 100%);
+            transform-origin: left;
+       -moz-transform-origin: left;
+    -webkit-transform-origin: left;
+            transition:         transform 1s linear;
+       -moz-transition:    -moz-transform 1s linear;
+    -webkit-transition: -webkit-transform 1s linear;
+    position: relative;
+	border:5px solid white;
+	animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    from {border: 10px solid red;}
+    to {border: 15px solid lightsteelblue;}
+}
+
+#card-front .wrap {
+            transition: background 1s linear;
+       -moz-transition: background 1s linear;
+    -webkit-transition: background 1s linear;
+}
+
+#card-front button {
+  position: absolute;
+  bottom: 1em;
+  right: -12px;
+  background: red;
+  color: #FFF;
+  font-family: &#39;Nobile&#39;, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5em;
+  padding: .5em;
+  border: none;
+  cursor: pointer;
+          box-shadow: 2px 2px 3px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .4);
+     -moz-box-shadow: 2px 2px 3px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .4);
+  -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .4);
+}
+
+#card-front button:hover,
+#card-front button:focus {
+  background: #F22;
+}
+
+#close {
+  display: none;
+}
+
+#card.open-fully #close,
+#card-open-half #close {
+  display: inline;
+}
+
+#card.open-fully #open {
+  display: none;
+}
+
+
+#card.open-half #card-front,
+#card.close-half #card-front {
+            transform: rotateY(-90deg);
+       -moz-transform: rotateY(-90deg);
+    -webkit-transform: rotateY(-90deg);
+}
+#card.open-half #card-front .wrap {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+#card.open-fully #card-front,
+#card.close-half #card-front {
+  background: #FFEFEF;
+}
+
+#card.open-fully #card-front {
+    transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -webkit-transform: rotateY(-180deg);
+}
+
+#card.open-fully #card-front .wrap {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#card.open-fully #card-front .wrap *,
+#card.close-half #card-front .wrap * {
+   display: none;
+}
+
+footer {
+  max-width: 00px;
+  margin: 40px auto;
+  font-family: &#39;Nobile&#39;, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #888;
+  text-align: center;
+}
+
+/* creating heart*/
+@keyframes heartbeat {
+  to {
+    transform: scaleX(1.4) scaleY(1.3) rotate(-45deg);
+  }
+}
+.heart-icon:hover {
+  animation-duration: 0.2s;
+}
+.heart-icon {
+  background-color: var(--heart-icon-color);
+  height: var(--heart-icon-size);
+	margin-left: 40%;
+	margin-top: 4rem;
+  width: var(--heart-icon-size);
+  transform: rotate(-45deg);
+  animation: heartbeat 1s alternate infinite;
+}
+
+.heart-icon:after {
+  background-color: inherit;
+  content: &quot;&quot;;
+  border-radius: 50%;
+  position: absolute;
+  width: var(--heart-icon-size);
+  height: var(--heart-icon-size);
+  top: 0;
+  left: calc(var(--heart-icon-size)/2);
+}
+.heart-icon:before {
+  content: &quot;&quot;;
+  background-color: inherit;
+  border-radius: 50%;
+  position: absolute;
+  width: var(--heart-icon-size);
+  height: var(--heart-icon-size);
+  top: calc(var(--heart-icon-size)/-2);
+  left: 0;
+}</style>
+
+<!-- partial:index.partial.html -->
+
+<div class='bodyTTP'> 
+<div id='card'>
+    <div id='card-inside'>
+      <div class='wrap'>
+               <div class='text' style='padding:10px;'>
+    <pre>
+      <style class='code' style='display: inline-block;'/>
+    </pre>
+  </div>         
+      </div>
+    </div>
+
+    <div id='card-front'>
+      <div class='wrap'>
+        <h1>A Note For <script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const slug = urlParams.get(&quot;m&quot;);         
+const page_type = urlParams.get(&quot;name&quot;)
+console.log(page_type);
+console.log(slug);          
+          
+if(!page_type){document.write(&quot;Dear_&quot;);} 
+          
+if (page_type === &quot;&quot;) {
+
+	} 
+	
+else {
+document.write(page_type);
+}               
+</script>!</h1>
+				 <div class='heart-icon'/>
+      </div>
+      <button id='open'>&gt;</button>
+      <button id='close'>&lt;</button>
+    </div>
+  </div>
+  </div>
+<!-- partial -->
+
+
+  <script>
+  (function () {
+  function $(id) {
+    return document.getElementById(id);
+  }
+
+  var card = $(&#39;card&#39;),
+  openB = $(&#39;open&#39;),
+  closeB = $(&#39;close&#39;),
+  timer = null;
+  console.log(&#39;wat&#39;, card);
+  openB.addEventListener(&#39;click&#39;, function () {
+    card.setAttribute(&#39;class&#39;, &#39;open-half&#39;);
+    if (timer) clearTimeout(timer);
+    timer = setTimeout(function () {
+      card.setAttribute(&#39;class&#39;, &#39;open-fully&#39;);
+      timer = null;
+    }, 1000);
+  });
+
+  closeB.addEventListener(&#39;click&#39;, function () {
+    card.setAttribute(&#39;class&#39;, &#39;close-half&#39;);
+    if (timer) clearTimerout(timer);
+    timer = setTimeout(function () {
+      card.setAttribute(&#39;class&#39;, &#39;&#39;);
+      timer = null;
+    }, 1000);
+  });
+
+})();
+
+
+
+const style = document.querySelector(&quot;.text pre style&quot;);
+const card = document.querySelector(&quot;.front face back face&quot;);
+
+
+script = `
+    .....
+Hello Dear!
+  Just an another year goes.. 
+    
+if goal==True: life = success; 
+    else: life = learn;
+    
+So important is that, 
+    learn until you achieve your goal.
+    
+Remember, Your goal is my Goal 
+ AND 
+My goal is only mine!
+
+Have a nice day!
+ ..........
+              Yamin!
+`;
+
+
+let counter = 0;
+
+let intervalID = setInterval(() =&gt; {
+  counter++;
+  style.textContent = script.substring(0, counter);
+  style.scrollTop = style.scrollHeight;
+  if (counter &gt; script.length) {
+    clearInterval(intervalID);
+  }
+}, 90);
+  
+  </script>
+
+
+   <div class='container'> 
+   
+   <h2 class='hint' style='color:black;'>Thanks for the birthday wishes <script>
+const queryStrings = window.location.search;
+const urlParamss = new URLSearchParams(queryStrings);
+const slugx = urlParamss.get(&quot;m&quot;);         
+const page_typeG = urlParamss.get(&quot;name&quot;)
+console.log(page_typeG);
+console.log(slugx);          
+          
+if(!page_typeG){document.write(&quot;Dear_&quot;);} 
+          
+if (page_typeG === &quot;&quot;) {
+
+	} 
+	
+else {
+document.write(page_typeG);
+}               
+</script>! You made a great day even greater!</h2>
+     
+   </div> 
+   
+   
+ <!-- BODY CONTENTS END-->
+  
+   
+   
+   
+   
+
+<!--home popup timer start-->   
+ <script> 
+function homeLOAD(){
+  var homeflash = new bootstrap.Modal(document.getElementById(&#39;Home&#39;));
+  var intro = new bootstrap.Modal(document.getElementById(&#39;next1&#39;));
+  var Welcome = new bootstrap.Modal(document.getElementById(&#39;next2&#39;));
+  
+  homeflash.show();
+  
+  setTimeout(function(){ homeflash.hide(); intro.show()
+  setTimeout(function(){ intro.hide(); Welcome.show()
+  setTimeout(function(){ Welcome.hide()}, 9000);
+  
+  }, 7000);  
+  
+  }, 6000);
+} 
+
+</script>        
+<!--home popup timer end-->     
+  
+  
+
+
+  
+ <div aria-hidden='true' aria-labelledby='HomeLoad' class='modal fade' id='Home' tabindex='-1'>
+  <div class='modal-dialog modal-fullscreen modal-dialog-centered'>
+    <div class='modal-content'>
+      <div class='modal-body'>
+        
+  
+        
+<!-- partial:index.partial.html -->
+<style>
+* {box-sizing:border-box;}
+.TTbody {font-family: Verdana,sans-serif;}
+.box{
+  position:relative;
+  height:485px;
+  width:390px;
+  border: 1px solid black;
+  margin:auto;
+  background-image:url(&#39;http://www.cartoonize.net/thumbs/upload/m7dma4sivg6glq2d0gmp0f1j01334579.jpg-thumb.jpg&#39;);
+  opacity:0.5;
+ }
+.calender{
+  position:absolute;
+  height:170px;
+  width:250px;
+  //border: 1px solid black;
+  right:0%;
+  text-align:center;
+}
+.Month {
+  position:absolute;
+	color: #000;
+  top:2%;
+	height: 25px;
+	width: 100%;
+  font-size:24px;
+  font-weight:bold;
+  font-family: &#39;Tangerine&#39;, serif;
+}  
+
+#days {
+  position:absolute;
+  top:16%;
+}
+
+table.days {
+	color: #000;
+	font-size: 13px;
+	width: 100%;
+}
+
+.dates{
+  position:absolute;
+  top:28%;
+}
+table.day td, table.days td {
+	width: 35px;
+  height:20px;
+}
+
+table.day td {
+	//background: #f4f0f7;
+  font-size:13px;
+	color: #000;
+	height: 22px;
+	box-shadow: 0 -1px 0 white;
+}
+
+
+table.day td:hover {
+  background: #e9e9ee;
+  cursor: pointer;
+}
+
+#birthday .birthday_message {
+    visibility: hidden;
+    width: 180px;
+    background:radial-gradient(circle, rgba(137,229,137,0.5), rgba(95,220,95,0.8));
+    //background:linear-gradient()
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+#birthday:hover .birthday_message {
+    visibility: visible;
+}
+
+.current-date-box{
+  position:absolute;
+  height:100px;
+  width:100px;
+  //border: 1px solid blue;
+  left:5%;
+  bottom:5%;
+  text-align:center;
+  border-radius:20%;
+  //box-shadow: 5px 5px #0000bb;
+}
+.current-month{
+  position:absolute;
+  height:30px;
+  left:12%;
+  bottom:95%;
+  font-weight:bold;
+  font-size:30px;
+  font-family: &#39;Tangerine&#39;, serif;
+}
+.current-date{
+  font-size:40px;
+  font-weight:bold;
+}
+</style>
+
+
+<link href='https://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css'/>
+
+        <div class='TTbody'>
+<div class='box'>
+  <div class='calender'>
+    <div class='Month'>
+       Month of November
+     
+    </div>
+    <div id='days'>
+		<table class='days'>
+			<tr>
+				<td style='color:red;'>Su</td>
+				<td>Mo</td>
+				<td>Tu</td>
+				<td>We</td>
+				<td>Th</td>
+				<td>Fr</td>
+				<td>Sa</td>
+			</tr>
+		</table>
+      
+	</div>
+    
+    
+    <div class='dates'>
+	<table class='day'>
+		<tr>
+			<td style='background:transparent;'/>
+			<td style='background:transparent;'/>
+			<td style='background:transparent;'/>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+      <td>4</td>
+		</tr>
+      
+		<tr>
+			<td style='color:red;'>5</td>
+			<td>6</td>
+			<td>7</td>
+			<td>8</td>
+			<td>9</td>
+			<td>10</td>
+      <td>11</td>
+		</tr>
+      
+		<tr>
+			<td style='color:red;'>12</td>
+			<td>13</td>
+			<td>14</td>
+			<td id='birthday' style='background:radial-gradient(circle,yellow 35% ,green,yellow)'>15<span class='birthday_message'>Yamin&#39;s Birthday!</span></td>
+			<td>16</td>
+			<td>17</td>
+             <td>18</td>
+		</tr>
+          
+		<tr>
+      <td style='color:red;'>19</td>
+			<td id='birthday' style='background:radial-gradient(circle,yellow 35% ,green,yellow)'>20<span class='birthday_message'>Tasnim&#39;s Birthday!</span></td>
+			<td>21</td>
+			<td>22</td>
+			<td>23</td>
+			<td>24</td>
+      <td>25</td>
+		</tr>
+		<tr>
+      <td style='color:red;'>26</td>
+			<td>27</td>
+			<td>28</td>
+			<td>29</td>
+			<td>30</td>
+			<td>31</td>
+		</tr>
+	</table>
+    </div>
+  </div>
+  
+  
+  
+  <div class='current-date-box'>
+    <div class='current-month'>
+      <p id='current-month'/>
+    </div>
+    <div class='current-date'>
+      <p id='current-date'/>
+    </div>
+  </div>
+</div>
+          
+               
+          
+  </div>      
+ 
+<script>
+var d = new Date();
+var month = new Array();
+month[0] = &quot;January&quot;;
+month[1] = &quot;February&quot;;
+month[2] = &quot;March&quot;;
+month[3] = &quot;April&quot;;
+month[4] = &quot;May&quot;;
+month[5] = &quot;June&quot;;
+month[6] = &quot;July&quot;;
+month[7] = &quot;August&quot;;
+month[8] = &quot;September&quot;;
+month[9] = &quot;October&quot;;
+month[10] = &quot;November&quot;;
+month[11] = &quot;December&quot;;
+var n = month[d.getMonth()];
+document.getElementById(&#39;current-month&#39;).innerHTML=n;
+var dt = d.getDate();
+document.getElementById(&#39;current-date&#39;).innerHTML=dt;
+</script>       
+        
+<!-- partial -->
+
+
+        
+
+      </div>
+    </div>
+  </div>
+</div>
+    
+   
+   
+   
+   
+   
+ <div aria-hidden='true' aria-labelledby='HomeLoad' class='modal fade' id='next1' tabindex='-1'>
+  <div class='modal-dialog modal-fullscreen modal-dialog-centered'>
+    <div class='modal-content'>
+      <div class='modal-body'>      
+        
+
+  
+<link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css' rel='stylesheet'/>
+<style>
+ #h1 {
+  position: absolute;
+  margin-top: 30vh;
+  width: 100%;
+  text-align: center;
+  font-size: 333%;
+  font-family: sans-serif;
+  color: grey;
+  opacity: 0.5;
+}
+
+#canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  height:100%;
+  margin: 0;
+  margin-top: -6%;
+}
+  
+  
+@media screen and (max-width:414px) {
+#canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  height:100%;
+  margin: 0;
+  margin-top: -15%;
+}
+}
+  
+  
+@media screen and (max-width:384px) {
+ #canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  height:100%;
+  margin: 0;
+  margin-top: -15%;
+}
+  
+  }  
+    
+  
+</style>
+        
+<!-- partial:index.partial.html -->
+<h1 id='h1'>It&#39;s My Birthday!</h1> <br/> <br/> <br/>
+<h3 id='h1'>Thanks For The Birthday Wishes <script>
+const queryStringsY = window.location.search;
+const urlParamxx = new URLSearchParams(queryStringsY);
+const slugxss = urlParamxx.get(&quot;m&quot;);         
+const page_typeY = urlParamxx.get(&quot;name&quot;)
+console.log(page_typeY);
+console.log(slugxss);          
+          
+if(!page_typeY){document.write(&quot;Dear_&quot;);} 
+          
+if (page_typeY === &quot;&quot;) {
+
+	} 
+	
+else {
+document.write(page_typeY);
+}               
+</script>!</h3>  
+        
+<canvas id='canvas'/>
+<!-- partial -->
+        
+&lt;script&gt;
+  let W = window.innerWidth;
+let H = window.innerHeight;
+const canvas = document.getElementById(&quot;canvas&quot;);
+const context = canvas.getContext(&quot;2d&quot;);
+const maxConfettis = 150;
+const particles = [];
+
+const possibleColors = [
+  &quot;DodgerBlue&quot;,
+  &quot;OliveDrab&quot;,
+  &quot;Gold&quot;,
+  &quot;Pink&quot;,
+  &quot;SlateBlue&quot;,
+  &quot;LightBlue&quot;,
+  &quot;Gold&quot;,
+  &quot;Violet&quot;,
+  &quot;PaleGreen&quot;,
+  &quot;SteelBlue&quot;,
+  &quot;SandyBrown&quot;,
+  &quot;Chocolate&quot;,
+  &quot;Crimson&quot;
+];
+
+function randomFromTo(from, to) {
+  return Math.floor(Math.random() * (to - from + 1) + from);
+}
+
+function confettiParticle() {
+  this.x = Math.random() * W; // x
+  this.y = Math.random() * H - H; // y
+  this.r = randomFromTo(11, 33); // radius
+  this.d = Math.random() * maxConfettis + 11;
+  this.color =
+    possibleColors[Math.floor(Math.random() * possibleColors.length)];
+  this.tilt = Math.floor(Math.random() * 33) - 11;
+  this.tiltAngleIncremental = Math.random() * 0.07 + 0.05;
+  this.tiltAngle = 0;
+
+  this.draw = function() {
+    context.beginPath();
+    context.lineWidth = this.r / 2;
+    context.strokeStyle = this.color;
+    context.moveTo(this.x + this.tilt + this.r / 3, this.y);
+    context.lineTo(this.x + this.tilt, this.y + this.tilt + this.r / 5);
+    return context.stroke();
+  };
+}
+
+function Draw() {
+  const results = [];
+
+  // Magical recursive functional love
+  requestAnimationFrame(Draw);
+
+  context.clearRect(0, 0, W, window.innerHeight);
+
+  for (var i = 0; i &lt; maxConfettis; i++) {
+    results.push(particles[i].draw());
+  }
+
+  let particle = {};
+  let remainingFlakes = 0;
+  for (var i = 0; i &lt; maxConfettis; i++) {
+    particle = particles[i];
+
+    particle.tiltAngle += particle.tiltAngleIncremental;
+    particle.y += (Math.cos(particle.d) + 3 + particle.r / 2) / 2;
+    particle.tilt = Math.sin(particle.tiltAngle - i / 3) * 15;
+
+    if (particle.y &lt;= H) remainingFlakes++;
+
+    // If a confetti has fluttered out of view,
+    // bring it back to above the viewport and let if re-fall.
+    if (particle.x &gt; W + 30 || particle.x &lt; -30 || particle.y &gt; H) {
+      particle.x = Math.random() * W;
+      particle.y = -30;
+      particle.tilt = Math.floor(Math.random() * 10) - 20;
+    }
+  }
+
+  return results;
+}
+
+window.addEventListener(
+  &quot;resize&quot;,
+  function() {
+    W = window.innerWidth;
+    H = window.innerHeight;
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  },
+  false
+);
+
+// Push new confetti objects to `particles[]`
+for (var i = 0; i &lt; maxConfettis; i++) {
+  particles.push(new confettiParticle());
+}
+
+// Initialize
+canvas.width = W;
+canvas.height = H;
+Draw();
+                                 
+&lt;/script&gt;
+
+
+    
+    
+    
+    
+
+      </div>
+    </div>
+  </div>
+</div>
+      
+   
+   
+    
+ <div aria-hidden='true' aria-labelledby='HomeLoad' class='modal fade' id='next2' tabindex='-1'>
+  <div class='modal-dialog modal-fullscreen modal-dialog-centered'>
+    <div class='modal-content'>
+      <div class='modal-body'>      
+        
+       
+<!-- partial:index.partial.html -->
+<link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css' rel='stylesheet'/>
+<style> @import url(&quot;https://fonts.googleapis.com/css?family=Coming+Soon&quot;);
+* {
+  transition: 2s;
+}
+
+.xhtml, .xbody {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+label {
+  cursor: pointer;
+}
+
+input {
+  display: none;
+}
+
+.hint {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: &quot;Coming Soon&quot;, cursive;
+  margin: 10px auto;
+}
+
+.card {
+  width: 700px;
+  height: 460px;
+  min-width: 700px;
+  min-height: 460px;
+  background-image: linear-gradient(40deg, #fff3d8, #ffd987, #cc921e);
+  background-size: 200% 100%;
+  background-position: 0;
+  border-radius: 20px;
+  position: relative;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.title {
+  font-family: &quot;Coming Soon&quot;, cursive;
+  font-size: 60px;
+  margin: 40px 45px;
+  color: #4c2a1e;
+  transform: rotate(-3deg);
+  position: absolute;
+  z-index: 999;
+  -webkit-animation: titleAni 2s infinite;
+          animation: titleAni 2s infinite;
+}
+.title span {
+  display: block;
+  line-height: 1.3;
+}
+
+.cake {
+  width: 260px;
+  height: 65px;
+  position: absolute;
+  top: 56%;
+  left: 17%;
+  z-index: 999;
+}
+
+.candle-group {
+  width: 20%;
+  height: 65%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.candle-group .light {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 0 50px rgba(255, 255, 255, 0.8);
+  top: -80%;
+  -webkit-animation: lightAni 1s infinite;
+          animation: lightAni 1s infinite;
+}
+.candle-group .smoke {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.candle-group .smoke:before, .candle-group .smoke:after {
+  content: &quot;&quot;;
+  display: none;
+  background-color: rgba(179, 177, 181, 0.8);
+  box-shadow: 0 0 5px rgba(179, 177, 181, 0.8);
+  position: absolute;
+}
+.candle-group .candle {
+  background: #ff593f;
+  width: 20%;
+  height: 100%;
+  position: relative;
+  border: 4px solid #4c2a1e;
+  border-radius: 5px 5px 0 0;
+  box-shadow: -3px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.candle-group .candle:before {
+  content: &quot;&quot;;
+  display: block;
+  background: white;
+  width: 100%;
+  height: 35%;
+  transform: skewY(-30deg);
+  position: absolute;
+  top: 30%;
+  box-shadow: -3px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.candle-group .candle .fire {
+  width: 130%;
+  height: 45%;
+  position: absolute;
+  background: #ffcc66;
+  top: 0;
+  left: 100%;
+  border-radius: 100% 0 60% 50%/60% 0 100% 50%;
+  border: 4px solid #4c2a1e;
+  transform: translate(-40%, -100%) rotate(-28deg);
+  transform-origin: 50% 100%;
+  box-shadow: -3px 0px rgba(0, 0, 0, 0.15) inset;
+  -webkit-animation: fireAni 1s infinite;
+          animation: fireAni 1s infinite;
+}
+
+.cake-top {
+  width: 64%;
+  height: 90%;
+  background-color: #54728c;
+  margin: auto;
+  position: relative;
+  border-radius: 10px 10px 0 0;
+  border-top: 4px solid #4c2a1e;
+  border-left: 4px solid #4c2a1e;
+  border-right: 4px solid #4c2a1e;
+  box-shadow: -25px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.cake-top:before {
+  content: &quot;&quot;;
+  display: block;
+  width: 100%;
+  height: 30%;
+  background-color: #85b6bf;
+  position: relative;
+  top: 50%;
+  transform: translatey(-50%);
+  box-shadow: -25px 0px rgba(0, 0, 0, 0.15) inset;
+}
+
+.cake-bottom {
+  width: 80%;
+  height: 100%;
+  background-color: #fcdda4;
+  border-radius: 10px 10px 0 0;
+  margin: auto;
+  border-left: 4px solid #4c2a1e;
+  border-right: 4px solid #4c2a1e;
+  border-top: 4px solid #4c2a1e;
+  box-shadow: -35px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.cake-bottom .butter {
+  width: 100%;
+  height: 55%;
+  background-color: #fc7164;
+  display: flex;
+  position: relative;
+  border-radius: 7px 7px 0 0;
+  box-shadow: -35px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.cake-bottom .butter .butter-circle {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  position: relative;
+  top: 40%;
+  background-color: #fc7164;
+}
+.cake-bottom .butter .butter-circle:nth-of-type(6) {
+  box-shadow: -35px 0px rgba(0, 0, 0, 0.15) inset;
+}
+
+.plate {
+  width: 100%;
+  height: 20%;
+  border-radius: 10px;
+  background-color: #4c2a1e;
+  left: -50%;
+  box-shadow: -45px 0px rgba(0, 0, 0, 0.15) inset;
+}
+
+.boy {
+  width: 230px;
+  height: 280px;
+  position: absolute;
+  top: 15%;
+  left: 55%;
+  z-index: 99;
+}
+
+.boy-head {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 99;
+}
+
+.hairs {
+  width: 110%;
+  height: 60%;
+  position: absolute;
+  z-index: 10;
+  transform: translatex(-4%) rotate(7deg);
+}
+.hairs [class^=hair] {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent transparent #4c2a1e transparent;
+  display: inline-block;
+  position: absolute;
+}
+.hairs .hair1 {
+  border-width: 0 60px 120px 40px;
+  transform: rotate(-30deg);
+  top: -5%;
+  left: -8%;
+}
+.hairs .hair2 {
+  border-width: 0 50px 135px 50px;
+  transform: rotate(-15deg);
+  top: -25%;
+  left: 5%;
+}
+.hairs .hair3 {
+  border-width: 0 60px 130px 50px;
+  transform: rotate(-5deg);
+  top: -30%;
+  left: 20%;
+}
+.hairs .hair4 {
+  border-width: 0 50px 140px 60px;
+  transform: rotate(5deg);
+  top: -35%;
+  left: 35%;
+}
+.hairs .hair5 {
+  border-width: 0 60px 130px 50px;
+  transform: rotate(15deg);
+  top: -25%;
+  left: 55%;
+}
+.hairs .hair6 {
+  border-width: 0 50px 120px 50px;
+  transform: rotate(20deg);
+  top: -10%;
+  left: 70%;
+}
+
+.face {
+  width: 100%;
+  height: 100%;
+  border-radius: 150px 150px 160px 130px;
+  background-color: #ffddad;
+  position: relative;
+  border: 4px solid #4c2a1e;
+  box-shadow: -20px 0px rgba(0, 0, 0, 0.15) inset;
+}
+.face .eyebrows {
+  position: relative;
+  top: 35%;
+  left: -10%;
+  width: 100%;
+  height: 15%;
+  -webkit-animation: eyebrowsAni 2s infinite;
+          animation: eyebrowsAni 2s infinite;
+}
+.face .eyebrows:before, .face .eyebrows:after {
+  content: &quot;&quot;;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  z-index: 10;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.3));
+}
+.face .eyebrows:before {
+  border-width: 30px 0 0 100px;
+  border-color: transparent transparent transparent #4c2a1e;
+  transform: rotate(12deg);
+  left: -3%;
+}
+.face .eyebrows:after {
+  border-width: 0 0 30px 120px;
+  border-color: transparent transparent #4c2a1e transparent;
+  transform: rotate(-12deg);
+  left: 58%;
+  top: -1%;
+}
+.face .blush {
+  top: 65%;
+  position: absolute;
+  width: 70%;
+  height: 7%;
+  z-index: 999;
+  -webkit-animation: blushAni 2s infinite;
+          animation: blushAni 2s infinite;
+}
+.face .blush:before, .face .blush:after {
+  content: &quot;&quot;;
+  display: block;
+  position: absolute;
+  background-color: #ffa49e;
+  border-radius: 45%;
+  box-shadow: -8px -5px rgba(0, 0, 0, 0.1) inset;
+  border: 4px solid #4c2a1e;
+}
+.face .blush:before {
+  width: 25%;
+  height: 100%;
+  left: -20%;
+}
+.face .blush:after {
+  width: 30%;
+  height: 105%;
+  left: 100%;
+  top: 10%;
+}
+.face .eyes {
+  position: relative;
+  top: 37%;
+  left: 8%;
+  width: 90%;
+  height: 11%;
+}
+.face .eyes:before, .face .eyes:after {
+  content: &quot;&quot;;
+  display: inline-block;
+  width: 18px;
+  height: 100%;
+  background-color: #4c2a1e;
+  border-radius: 45%;
+  position: absolute;
+  z-index: 10;
+  -webkit-animation: blink 2s infinite;
+          animation: blink 2s infinite;
+}
+.face .eyes:before {
+  left: 0;
+}
+.face .eyes:after {
+  left: 55%;
+}
+.face .mouth {
+  position: relative;
+  top: 45%;
+  left: 24%;
+  width: 20%;
+  height: 20%;
+  box-shadow: 15px 0px rgba(0, 0, 0, 0.15) inset;
+  border-radius: 48%;
+  background-color: #4c2a1e;
+  transform: rotate(-5deg);
+  transform-origin: 0 50%;
+  -webkit-animation: breathMouth 2s infinite;
+          animation: breathMouth 2s infinite;
+}
+
+.boy-body {
+  width: 36%;
+  height: 26.8%;
+  position: relative;
+  margin: auto;
+}
+
+.body {
+  width: 90%;
+  height: 80%;
+  position: relative;
+  z-index: 50;
+  border-radius: 50% 50% 0 0;
+  background-color: #4b84d8;
+  border: 4px solid #4c2a1e;
+  top: -11%;
+  box-shadow: -25px 0px rgba(0, 0, 0, 0.15) inset;
+  z-index: 8;
+  overflow: hidden;
+  -webkit-animation: breath 2s infinite;
+          animation: breath 2s infinite;
+}
+.body:before, .body:after {
+  content: &quot;&quot;;
+  display: block;
+  width: 12px;
+  height: 12px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 4px solid #4c2a1e;
+  border-radius: 50%;
+  position: relative;
+  top: 14%;
+  left: 6%;
+  margin: 10px;
+  box-shadow: -3px 0px rgba(0, 0, 0, 0.15) inset;
+}
+
+.hands .left-hand, .hands .right-hand {
+  width: 35%;
+  height: 130%;
+  border-radius: 20px;
+  background-color: #ffddad;
+  position: absolute;
+  border: 4px solid #4c2a1e;
+  box-shadow: -10px 0px rgba(0, 0, 0, 0.15) inset;
+  z-index: 1000;
+  transform-origin: center top;
+}
+.hands .left-hand:before, .hands .right-hand:before {
+  content: &quot;&quot;;
+  display: block;
+  width: 100%;
+  height: 30%;
+  background-color: #4b84d8;
+  box-shadow: -10px 0px rgba(0, 0, 0, 0.15) inset;
+  border: 4px solid #4c2a1e;
+  border-radius: 20px 20px 0 0;
+  position: absolute;
+  top: -4px;
+  left: -4px;
+}
+.hands .left-hand {
+  top: 25%;
+  left: 4px;
+  transform: rotate(100deg);
+  z-index: -1;
+  -webkit-animation: leftHandAni 2s infinite;
+          animation: leftHandAni 2s infinite;
+}
+.hands .right-hand {
+  top: 25%;
+  left: 50%;
+  transform: rotate(-120deg);
+  -webkit-animation: rightHandAni 2s infinite;
+          animation: rightHandAni 2s infinite;
+}
+
+.desk {
+  width: 100%;
+  height: 15%;
+  border-top: 4px solid #4c2a1e;
+  position: absolute;
+  top: 88%;
+  background-color: #f4b7b5;
+  z-index: 50;
+  box-shadow: 0px -20px rgba(0, 0, 0, 0.2) inset;
+}
+
+.sprinkles {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.sprinkles [class^=sprinkle] {
+  width: 5px;
+  height: 10px;
+  border-radius: 50%;
+  -webkit-animation: sprinkleAni 5s infinite;
+          animation: sprinkleAni 5s infinite;
+}
+.sprinkles .sprinkle1 {
+  position: absolute;
+  left: 13.8685523945%;
+  top: 13.3654225223%;
+  background-color: #ff756d;
+  -webkit-animation-delay: -0.1s;
+          animation-delay: -0.1s;
+}
+.sprinkles .sprinkle2 {
+  position: absolute;
+  left: 28.7727302762%;
+  top: 20.9080557242%;
+  background-color: #d9d7e2;
+  -webkit-animation-delay: -0.2s;
+          animation-delay: -0.2s;
+}
+.sprinkles .sprinkle3 {
+  position: absolute;
+  left: 86.1606895589%;
+  top: 17.4025660311%;
+  background-color: #ffd19d;
+  -webkit-animation-delay: -0.3s;
+          animation-delay: -0.3s;
+}
+.sprinkles .sprinkle4 {
+  position: absolute;
+  left: 83.5380747467%;
+  top: 76.0714065712%;
+  background-color: #f3d7df;
+  -webkit-animation-delay: -0.4s;
+          animation-delay: -0.4s;
+}
+.sprinkles .sprinkle5 {
+  position: absolute;
+  left: 80.2567797214%;
+  top: 70.7029084844%;
+  background-color: #dba6a4;
+  -webkit-animation-delay: -0.5s;
+          animation-delay: -0.5s;
+}
+.sprinkles .sprinkle6 {
+  position: absolute;
+  left: 61.5644647307%;
+  top: 33.479905206%;
+  background-color: #a6adb7;
+  -webkit-animation-delay: -0.6s;
+          animation-delay: -0.6s;
+}
+.sprinkles .sprinkle7 {
+  position: absolute;
+  left: 53.2707661841%;
+  top: 6.8505043806%;
+  background-color: #ff63e0;
+  -webkit-animation-delay: -0.7s;
+          animation-delay: -0.7s;
+}
+.sprinkles .sprinkle8 {
+  position: absolute;
+  left: 78.7476801813%;
+  top: -6.9605835426%;
+  background-color: #dd9fb0;
+  -webkit-animation-delay: -0.8s;
+          animation-delay: -0.8s;
+}
+.sprinkles .sprinkle9 {
+  position: absolute;
+  left: 89.0241825355%;
+  top: 55.1966782031%;
+  background-color: #d99f9b;
+  -webkit-animation-delay: -0.9s;
+          animation-delay: -0.9s;
+}
+.sprinkles .sprinkle10 {
+  position: absolute;
+  left: 30.3430046179%;
+  top: 35.1031502728%;
+  background-color: #aa775f;
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s;
+}
+.sprinkles .sprinkle11 {
+  position: absolute;
+  left: 33.8721730765%;
+  top: 73.1061790993%;
+  background-color: #ff91a4;
+  -webkit-animation-delay: -1.1s;
+          animation-delay: -1.1s;
+}
+.sprinkles .sprinkle12 {
+  position: absolute;
+  left: 57.0342626165%;
+  top: -0.862327324%;
+  background-color: #cb6fd9;
+  -webkit-animation-delay: -1.2s;
+          animation-delay: -1.2s;
+}
+.sprinkles .sprinkle13 {
+  position: absolute;
+  left: 38.2245304004%;
+  top: 40.9711855851%;
+  background-color: #d976a3;
+  -webkit-animation-delay: -1.3s;
+          animation-delay: -1.3s;
+}
+.sprinkles .sprinkle14 {
+  position: absolute;
+  left: 33.2367335005%;
+  top: 59.4143399427%;
+  background-color: #a6c05e;
+  -webkit-animation-delay: -1.4s;
+          animation-delay: -1.4s;
+}
+.sprinkles .sprinkle15 {
+  position: absolute;
+  left: 59.0408181333%;
+  top: -18.0443834193%;
+  background-color: #d2b08d;
+  -webkit-animation-delay: -1.5s;
+          animation-delay: -1.5s;
+}
+.sprinkles .sprinkle16 {
+  position: absolute;
+  left: 89.7471098065%;
+  top: 14.3824635633%;
+  background-color: #ff75d9;
+  -webkit-animation-delay: -1.6s;
+          animation-delay: -1.6s;
+}
+.sprinkles .sprinkle17 {
+  position: absolute;
+  left: 47.8628897978%;
+  top: 75.6694467741%;
+  background-color: #ffc59b;
+  -webkit-animation-delay: -1.7s;
+          animation-delay: -1.7s;
+}
+.sprinkles .sprinkle18 {
+  position: absolute;
+  left: 11.6119677664%;
+  top: 0.7071275891%;
+  background-color: #f8e557;
+  -webkit-animation-delay: -1.8s;
+          animation-delay: -1.8s;
+}
+.sprinkles .sprinkle19 {
+  position: absolute;
+  left: 30.0765129216%;
+  top: 53.5359077421%;
+  background-color: #cfb86b;
+  -webkit-animation-delay: -1.9s;
+          animation-delay: -1.9s;
+}
+.sprinkles .sprinkle20 {
+  position: absolute;
+  left: 40.6417499583%;
+  top: 44.0007939063%;
+  background-color: #da6c67;
+  -webkit-animation-delay: -2s;
+          animation-delay: -2s;
+}
+.sprinkles .sprinkle21 {
+  position: absolute;
+  left: 54.8431989674%;
+  top: 67.1852361958%;
+  background-color: #ff6f70;
+  -webkit-animation-delay: -2.1s;
+          animation-delay: -2.1s;
+}
+.sprinkles .sprinkle22 {
+  position: absolute;
+  left: 6.6353423609%;
+  top: 45.85572822%;
+  background-color: #c2598d;
+  -webkit-animation-delay: -2.2s;
+          animation-delay: -2.2s;
+}
+.sprinkles .sprinkle23 {
+  position: absolute;
+  left: 55.6022598031%;
+  top: 2.7846414164%;
+  background-color: #9a656f;
+  -webkit-animation-delay: -2.3s;
+          animation-delay: -2.3s;
+}
+.sprinkles .sprinkle24 {
+  position: absolute;
+  left: 19.5851568564%;
+  top: 49.7656382857%;
+  background-color: #c8b4a6;
+  -webkit-animation-delay: -2.4s;
+          animation-delay: -2.4s;
+}
+.sprinkles .sprinkle25 {
+  position: absolute;
+  left: 72.3506153624%;
+  top: 28.6573674657%;
+  background-color: #fb99cf;
+  -webkit-animation-delay: -2.5s;
+          animation-delay: -2.5s;
+}
+.sprinkles .sprinkle26 {
+  position: absolute;
+  left: 60.2609765374%;
+  top: -9.1114254656%;
+  background-color: #a4a892;
+  -webkit-animation-delay: -2.6s;
+          animation-delay: -2.6s;
+}
+.sprinkles .sprinkle27 {
+  position: absolute;
+  left: 41.1619009449%;
+  top: 76.9115493743%;
+  background-color: #a0cda4;
+  -webkit-animation-delay: -2.7s;
+          animation-delay: -2.7s;
+}
+.sprinkles .sprinkle28 {
+  position: absolute;
+  left: 55.2927480784%;
+  top: 72.1916658698%;
+  background-color: #e298a9;
+  -webkit-animation-delay: -2.8s;
+          animation-delay: -2.8s;
+}
+.sprinkles .sprinkle29 {
+  position: absolute;
+  left: 37.6411044508%;
+  top: 28.7959955697%;
+  background-color: #ff84b4;
+  -webkit-animation-delay: -2.9s;
+          animation-delay: -2.9s;
+}
+.sprinkles .sprinkle30 {
+  position: absolute;
+  left: 47.3822566697%;
+  top: 31.0742148248%;
+  background-color: #ff9eb7;
+  -webkit-animation-delay: -3s;
+          animation-delay: -3s;
+}
+.sprinkles .sprinkle31 {
+  position: absolute;
+  left: 67.0261584643%;
+  top: 55.8365287048%;
+  background-color: #9ca7c6;
+  -webkit-animation-delay: -3.1s;
+          animation-delay: -3.1s;
+}
+.sprinkles .sprinkle32 {
+  position: absolute;
+  left: 42.8291096108%;
+  top: -13.4129032737%;
+  background-color: #b158df;
+  -webkit-animation-delay: -3.2s;
+          animation-delay: -3.2s;
+}
+.sprinkles .sprinkle33 {
+  position: absolute;
+  left: 44.9911956435%;
+  top: 37.1869823777%;
+  background-color: #e6a1a4;
+  -webkit-animation-delay: -3.3s;
+          animation-delay: -3.3s;
+}
+.sprinkles .sprinkle34 {
+  position: absolute;
+  left: 93.7036504174%;
+  top: -18.3683789731%;
+  background-color: #e7938f;
+  -webkit-animation-delay: -3.4s;
+          animation-delay: -3.4s;
+}
+.sprinkles .sprinkle35 {
+  position: absolute;
+  left: 10.4209899799%;
+  top: 12.7945763946%;
+  background-color: #e879c6;
+  -webkit-animation-delay: -3.5s;
+          animation-delay: -3.5s;
+}
+.sprinkles .sprinkle36 {
+  position: absolute;
+  left: 5.0093251112%;
+  top: 31.0381522516%;
+  background-color: #e1aa68;
+  -webkit-animation-delay: -3.6s;
+          animation-delay: -3.6s;
+}
+.sprinkles .sprinkle37 {
+  position: absolute;
+  left: 62.4433312557%;
+  top: 0.8523920372%;
+  background-color: #dfd5d0;
+  -webkit-animation-delay: -3.7s;
+          animation-delay: -3.7s;
+}
+.sprinkles .sprinkle38 {
+  position: absolute;
+  left: 5.4869133921%;
+  top: 66.1271547139%;
+  background-color: #d5635e;
+  -webkit-animation-delay: -3.8s;
+          animation-delay: -3.8s;
+}
+.sprinkles .sprinkle39 {
+  position: absolute;
+  left: 23.6080866994%;
+  top: -17.2826175506%;
+  background-color: #ffb875;
+  -webkit-animation-delay: -3.9s;
+          animation-delay: -3.9s;
+}
+.sprinkles .sprinkle40 {
+  position: absolute;
+  left: 71.7838103007%;
+  top: 57.4815207619%;
+  background-color: #bce68e;
+  -webkit-animation-delay: -4s;
+          animation-delay: -4s;
+}
+.sprinkles .sprinkle41 {
+  position: absolute;
+  left: 70.6911021025%;
+  top: 15.8104122161%;
+  background-color: #ff6fc3;
+  -webkit-animation-delay: -4.1s;
+          animation-delay: -4.1s;
+}
+.sprinkles .sprinkle42 {
+  position: absolute;
+  left: 40.144999915%;
+  top: 1.1554087962%;
+  background-color: #ac7e77;
+  -webkit-animation-delay: -4.2s;
+          animation-delay: -4.2s;
+}
+.sprinkles .sprinkle43 {
+  position: absolute;
+  left: 35.9019406401%;
+  top: -2.1264887751%;
+  background-color: #abbc54;
+  -webkit-animation-delay: -4.3s;
+          animation-delay: -4.3s;
+}
+.sprinkles .sprinkle44 {
+  position: absolute;
+  left: 65.9483757097%;
+  top: 79.9712821217%;
+  background-color: #b4616d;
+  -webkit-animation-delay: -4.4s;
+          animation-delay: -4.4s;
+}
+.sprinkles .sprinkle45 {
+  position: absolute;
+  left: 40.2244110934%;
+  top: -15.7431415774%;
+  background-color: #f0e59b;
+  -webkit-animation-delay: -4.5s;
+          animation-delay: -4.5s;
+}
+.sprinkles .sprinkle46 {
+  position: absolute;
+  left: 89.4873597308%;
+  top: 3.0987324717%;
+  background-color: #a97ddc;
+  -webkit-animation-delay: -4.6s;
+          animation-delay: -4.6s;
+}
+.sprinkles .sprinkle47 {
+  position: absolute;
+  left: 96.8363266847%;
+  top: 16.9568558195%;
+  background-color: #d7e57e;
+  -webkit-animation-delay: -4.7s;
+          animation-delay: -4.7s;
+}
+.sprinkles .sprinkle48 {
+  position: absolute;
+  left: 55.2560069875%;
+  top: -3.7631465971%;
+  background-color: #d5955d;
+  -webkit-animation-delay: -4.8s;
+          animation-delay: -4.8s;
+}
+.sprinkles .sprinkle49 {
+  position: absolute;
+  left: 37.3156902919%;
+  top: 74.6998206734%;
+  background-color: #9aad90;
+  -webkit-animation-delay: -4.9s;
+          animation-delay: -4.9s;
+}
+.sprinkles .sprinkle50 {
+  position: absolute;
+  left: 60.7766526995%;
+  top: -10.4842309659%;
+  background-color: #e7d4ab;
+  -webkit-animation-delay: -5s;
+          animation-delay: -5s;
+}
+.sprinkles .sprinkle51 {
+  position: absolute;
+  left: 40.842708724%;
+  top: 21.9690373069%;
+  background-color: #ffbb61;
+  -webkit-animation-delay: -5.1s;
+          animation-delay: -5.1s;
+}
+.sprinkles .sprinkle52 {
+  position: absolute;
+  left: 86.8334437041%;
+  top: 34.6231434356%;
+  background-color: #e37991;
+  -webkit-animation-delay: -5.2s;
+          animation-delay: -5.2s;
+}
+.sprinkles .sprinkle53 {
+  position: absolute;
+  left: 1.9843742757%;
+  top: 62.7483912097%;
+  background-color: #c0b269;
+  -webkit-animation-delay: -5.3s;
+          animation-delay: -5.3s;
+}
+.sprinkles .sprinkle54 {
+  position: absolute;
+  left: 4.1947273457%;
+  top: 36.0258385218%;
+  background-color: #9bd6d0;
+  -webkit-animation-delay: -5.4s;
+          animation-delay: -5.4s;
+}
+.sprinkles .sprinkle55 {
+  position: absolute;
+  left: 79.0207642502%;
+  top: 2.2969478589%;
+  background-color: #af895d;
+  -webkit-animation-delay: -5.5s;
+          animation-delay: -5.5s;
+}
+.sprinkles .sprinkle56 {
+  position: absolute;
+  left: 74.6837558861%;
+  top: 37.525213051%;
+  background-color: #bc8f8d;
+  -webkit-animation-delay: -5.6s;
+          animation-delay: -5.6s;
+}
+.sprinkles .sprinkle57 {
+  position: absolute;
+  left: 77.3651126753%;
+  top: 46.1628736934%;
+  background-color: #dc6b6a;
+  -webkit-animation-delay: -5.7s;
+          animation-delay: -5.7s;
+}
+.sprinkles .sprinkle58 {
+  position: absolute;
+  left: 91.8467053839%;
+  top: -10.6872824028%;
+  background-color: #eed055;
+  -webkit-animation-delay: -5.8s;
+          animation-delay: -5.8s;
+}
+.sprinkles .sprinkle59 {
+  position: absolute;
+  left: 89.2945519129%;
+  top: -5.7948469608%;
+  background-color: #a277c5;
+  -webkit-animation-delay: -5.9s;
+          animation-delay: -5.9s;
+}
+.sprinkles .sprinkle60 {
+  position: absolute;
+  left: 56.4224130778%;
+  top: 55.4114070271%;
+  background-color: #de56de;
+  -webkit-animation-delay: -6s;
+          animation-delay: -6s;
+}
+.sprinkles .sprinkle61 {
+  position: absolute;
+  left: 69.1322394569%;
+  top: 31.7938889825%;
+  background-color: #fc8c96;
+  -webkit-animation-delay: -6.1s;
+          animation-delay: -6.1s;
+}
+.sprinkles .sprinkle62 {
+  position: absolute;
+  left: 8.6984403117%;
+  top: 71.5783341708%;
+  background-color: #989767;
+  -webkit-animation-delay: -6.2s;
+          animation-delay: -6.2s;
+}
+.sprinkles .sprinkle63 {
+  position: absolute;
+  left: 67.5721629688%;
+  top: 57.5127228037%;
+  background-color: #bb9572;
+  -webkit-animation-delay: -6.3s;
+          animation-delay: -6.3s;
+}
+.sprinkles .sprinkle64 {
+  position: absolute;
+  left: 0.861294977%;
+  top: 38.2679704143%;
+  background-color: #bdb5e0;
+  -webkit-animation-delay: -6.4s;
+          animation-delay: -6.4s;
+}
+.sprinkles .sprinkle65 {
+  position: absolute;
+  left: 70.6979385544%;
+  top: 12.7518143262%;
+  background-color: #ff6b6f;
+  -webkit-animation-delay: -6.5s;
+          animation-delay: -6.5s;
+}
+.sprinkles .sprinkle66 {
+  position: absolute;
+  left: 55.7297855666%;
+  top: 44.9870766232%;
+  background-color: #b389a0;
+  -webkit-animation-delay: -6.6s;
+          animation-delay: -6.6s;
+}
+.sprinkles .sprinkle67 {
+  position: absolute;
+  left: 64.8645470396%;
+  top: 25.9014500694%;
+  background-color: #a55da9;
+  -webkit-animation-delay: -6.7s;
+          animation-delay: -6.7s;
+}
+.sprinkles .sprinkle68 {
+  position: absolute;
+  left: 53.0700543626%;
+  top: 28.444055833%;
+  background-color: #c1d86a;
+  -webkit-animation-delay: -6.8s;
+          animation-delay: -6.8s;
+}
+.sprinkles .sprinkle69 {
+  position: absolute;
+  left: 9.5753719191%;
+  top: 8.7336999187%;
+  background-color: #ee7cad;
+  -webkit-animation-delay: -6.9s;
+          animation-delay: -6.9s;
+}
+.sprinkles .sprinkle70 {
+  position: absolute;
+  left: 85.8442831729%;
+  top: -1.1631699285%;
+  background-color: #f28462;
+  -webkit-animation-delay: -7s;
+          animation-delay: -7s;
+}
+.sprinkles .sprinkle71 {
+  position: absolute;
+  left: 50.3946738416%;
+  top: -4.1073140318%;
+  background-color: #ed51e4;
+  -webkit-animation-delay: -7.1s;
+          animation-delay: -7.1s;
+}
+.sprinkles .sprinkle72 {
+  position: absolute;
+  left: 11.7940917591%;
+  top: 20.7753916875%;
+  background-color: #ff7ee3;
+  -webkit-animation-delay: -7.2s;
+          animation-delay: -7.2s;
+}
+.sprinkles .sprinkle73 {
+  position: absolute;
+  left: 65.11083789%;
+  top: 47.6463491153%;
+  background-color: #b1d8df;
+  -webkit-animation-delay: -7.3s;
+          animation-delay: -7.3s;
+}
+.sprinkles .sprinkle74 {
+  position: absolute;
+  left: 72.5767259572%;
+  top: -7.7453366446%;
+  background-color: #ffc7bd;
+  -webkit-animation-delay: -7.4s;
+          animation-delay: -7.4s;
+}
+.sprinkles .sprinkle75 {
+  position: absolute;
+  left: 43.7062696459%;
+  top: 64.2719265918%;
+  background-color: #ff6f52;
+  -webkit-animation-delay: -7.5s;
+          animation-delay: -7.5s;
+}
+.sprinkles .sprinkle76 {
+  position: absolute;
+  left: 63.8130802695%;
+  top: 36.6684337188%;
+  background-color: #ff896d;
+  -webkit-animation-delay: -7.6s;
+          animation-delay: -7.6s;
+}
+.sprinkles .sprinkle77 {
+  position: absolute;
+  left: 32.3524206514%;
+  top: 5.2251824586%;
+  background-color: #fb78ba;
+  -webkit-animation-delay: -7.7s;
+          animation-delay: -7.7s;
+}
+.sprinkles .sprinkle78 {
+  position: absolute;
+  left: 1.7124039034%;
+  top: 53.4026394288%;
+  background-color: #c66b73;
+  -webkit-animation-delay: -7.8s;
+          animation-delay: -7.8s;
+}
+.sprinkles .sprinkle79 {
+  position: absolute;
+  left: 56.8745190707%;
+  top: 71.6755774533%;
+  background-color: #f49e55;
+  -webkit-animation-delay: -7.9s;
+          animation-delay: -7.9s;
+}
+.sprinkles .sprinkle80 {
+  position: absolute;
+  left: 80.4395562622%;
+  top: -1.570460271%;
+  background-color: #c854c0;
+  -webkit-animation-delay: -8s;
+          animation-delay: -8s;
+}
+.sprinkles .sprinkle81 {
+  position: absolute;
+  left: 27.5587264612%;
+  top: 26.4793854764%;
+  background-color: #ffce5c;
+  -webkit-animation-delay: -8.1s;
+          animation-delay: -8.1s;
+}
+.sprinkles .sprinkle82 {
+  position: absolute;
+  left: 55.6347755354%;
+  top: 1.3281957207%;
+  background-color: #ca58e0;
+  -webkit-animation-delay: -8.2s;
+          animation-delay: -8.2s;
+}
+.sprinkles .sprinkle83 {
+  position: absolute;
+  left: 6.7868232023%;
+  top: -19.5847297637%;
+  background-color: #a655b4;
+  -webkit-animation-delay: -8.3s;
+          animation-delay: -8.3s;
+}
+.sprinkles .sprinkle84 {
+  position: absolute;
+  left: 73.4415746206%;
+  top: 1.953860619%;
+  background-color: #d4cab1;
+  -webkit-animation-delay: -8.4s;
+          animation-delay: -8.4s;
+}
+.sprinkles .sprinkle85 {
+  position: absolute;
+  left: 89.6600328419%;
+  top: 78.2304409306%;
+  background-color: #ff7961;
+  -webkit-animation-delay: -8.5s;
+          animation-delay: -8.5s;
+}
+.sprinkles .sprinkle86 {
+  position: absolute;
+  left: 9.3283105552%;
+  top: 68.0405590124%;
+  background-color: #b3e274;
+  -webkit-animation-delay: -8.6s;
+          animation-delay: -8.6s;
+}
+.sprinkles .sprinkle87 {
+  position: absolute;
+  left: 60.8910096714%;
+  top: 33.1553156387%;
+  background-color: #ff6be2;
+  -webkit-animation-delay: -8.7s;
+          animation-delay: -8.7s;
+}
+.sprinkles .sprinkle88 {
+  position: absolute;
+  left: 50.5284448417%;
+  top: 54.2270419279%;
+  background-color: #acb793;
+  -webkit-animation-delay: -8.8s;
+          animation-delay: -8.8s;
+}
+.sprinkles .sprinkle89 {
+  position: absolute;
+  left: 89.559192965%;
+  top: 41.4927786064%;
+  background-color: #eb6f65;
+  -webkit-animation-delay: -8.9s;
+          animation-delay: -8.9s;
+}
+.sprinkles .sprinkle90 {
+  position: absolute;
+  left: 70.0964465349%;
+  top: -19.6141500658%;
+  background-color: #ffc08b;
+  -webkit-animation-delay: -9s;
+          animation-delay: -9s;
+}
+.sprinkles .sprinkle91 {
+  position: absolute;
+  left: 12.3781119505%;
+  top: 19.4267239257%;
+  background-color: #e0d9e4;
+  -webkit-animation-delay: -9.1s;
+          animation-delay: -9.1s;
+}
+.sprinkles .sprinkle92 {
+  position: absolute;
+  left: 1.200604124%;
+  top: 74.7092503008%;
+  background-color: #b9bfa9;
+  -webkit-animation-delay: -9.2s;
+          animation-delay: -9.2s;
+}
+.sprinkles .sprinkle93 {
+  position: absolute;
+  left: 7.9206689881%;
+  top: -10.8375111212%;
+  background-color: #bca472;
+  -webkit-animation-delay: -9.3s;
+          animation-delay: -9.3s;
+}
+.sprinkles .sprinkle94 {
+  position: absolute;
+  left: 96.4482517846%;
+  top: 63.963971213%;
+  background-color: #b3c8b8;
+  -webkit-animation-delay: -9.4s;
+          animation-delay: -9.4s;
+}
+.sprinkles .sprinkle95 {
+  position: absolute;
+  left: 69.2869514238%;
+  top: 2.1444906574%;
+  background-color: #ff77b3;
+  -webkit-animation-delay: -9.5s;
+          animation-delay: -9.5s;
+}
+.sprinkles .sprinkle96 {
+  position: absolute;
+  left: 6.6652177496%;
+  top: 7.9630161992%;
+  background-color: #af90e1;
+  -webkit-animation-delay: -9.6s;
+          animation-delay: -9.6s;
+}
+.sprinkles .sprinkle97 {
+  position: absolute;
+  left: 76.6915339965%;
+  top: 10.1446797915%;
+  background-color: #add7ad;
+  -webkit-animation-delay: -9.7s;
+          animation-delay: -9.7s;
+}
+.sprinkles .sprinkle98 {
+  position: absolute;
+  left: 59.74895688%;
+  top: 25.0699592689%;
+  background-color: #ff69ae;
+  -webkit-animation-delay: -9.8s;
+          animation-delay: -9.8s;
+}
+.sprinkles .sprinkle99 {
+  position: absolute;
+  left: 54.8480186327%;
+  top: 6.0684993339%;
+  background-color: #ffcbb1;
+  -webkit-animation-delay: -9.9s;
+          animation-delay: -9.9s;
+}
+.sprinkles .sprinkle100 {
+  position: absolute;
+  left: 27.3344945578%;
+  top: 3.521988062%;
+  background-color: #e651dd;
+  -webkit-animation-delay: -10s;
+          animation-delay: -10s;
+}
+
+input:checked + .card {
+  background-position: 100%;
+}
+input:checked + .card * {
+  filter: brightness(98%);
+}
+input:checked + .card .candle-group .light {
+  -webkit-animation: lightAni 1s infinite, lightDisappearAni 1s forwards;
+          animation: lightAni 1s infinite, lightDisappearAni 1s forwards;
+}
+input:checked + .card .candle-group .smoke:before, input:checked + .card .candle-group .smoke:after {
+  display: block;
+}
+input:checked + .card .candle-group .smoke:before {
+  width: 20px;
+  height: 20px;
+  top: -60%;
+  left: 35%;
+  border-radius: 50%;
+  -webkit-animation: smokeTopAni 1s forwards;
+          animation: smokeTopAni 1s forwards;
+}
+input:checked + .card .candle-group .smoke:after {
+  width: 80px;
+  height: 5px;
+  top: -10%;
+  left: -100%;
+  border-radius: 10px;
+  transform-origin: 0% 50%;
+  -webkit-animation: smokeLeftAni 1s forwards;
+          animation: smokeLeftAni 1s forwards;
+}
+input:checked + .card .candle-group .candle .fire {
+  -webkit-animation: fireAni 1s infinite, fireDisappearAni 1s forwards;
+          animation: fireAni 1s infinite, fireDisappearAni 1s forwards;
+}
+input:checked + .card .boy-head {
+  -webkit-animation: blowHead 1s forwards;
+          animation: blowHead 1s forwards;
+}
+input:checked + .card .face .mouth {
+  -webkit-animation: blowMouth 1s forwards;
+          animation: blowMouth 1s forwards;
+}
+input:checked + .card .body {
+  -webkit-animation: breath 2s infinite, blowBody 1s forwards;
+          animation: breath 2s infinite, blowBody 1s forwards;
+}
+input:checked + .card .sprinkles [class^=sprinkle] {
+  width: 6px;
+  height: 12px;
+}
+
+@-webkit-keyframes titleAni {
+  60% {
+    transform: rotate(-2deg) scale(1.05) translate(2px, 2px);
+  }
+}
+
+@keyframes titleAni {
+  60% {
+    transform: rotate(-2deg) scale(1.05) translate(2px, 2px);
+  }
+}
+@-webkit-keyframes blink {
+  0%, 95% {
+    box-shadow: none;
+  }
+  100% {
+    box-shadow: 0px 31px #ffddad inset;
+  }
+}
+@keyframes blink {
+  0%, 95% {
+    box-shadow: none;
+  }
+  100% {
+    box-shadow: 0px 31px #ffddad inset;
+  }
+}
+@-webkit-keyframes eyebrowsAni {
+  0%, 100% {
+    transform: translateY(0%);
+  }
+  80% {
+    transform: translateY(-5%);
+  }
+}
+@keyframes eyebrowsAni {
+  0%, 100% {
+    transform: translateY(0%);
+  }
+  80% {
+    transform: translateY(-5%);
+  }
+}
+@-webkit-keyframes blushAni {
+  0%, 100% {
+    transform: translateY(0%);
+  }
+  60% {
+    transform: translateY(5%);
+  }
+}
+@keyframes blushAni {
+  0%, 100% {
+    transform: translateY(0%);
+  }
+  60% {
+    transform: translateY(5%);
+  }
+}
+@-webkit-keyframes lightAni {
+  60% {
+    transform: scale(1.5);
+  }
+}
+@keyframes lightAni {
+  60% {
+    transform: scale(1.5);
+  }
+}
+@-webkit-keyframes fireAni {
+  0%, 100% {
+    transform: translate(-40%, -100%) rotate(-28deg);
+  }
+  60% {
+    transform: translate(-30%, -110%) rotate(-40deg) scaleX(1.3) scaleY(1.1);
+    background: #ffc36b;
+  }
+}
+@keyframes fireAni {
+  0%, 100% {
+    transform: translate(-40%, -100%) rotate(-28deg);
+  }
+  60% {
+    transform: translate(-30%, -110%) rotate(-40deg) scaleX(1.3) scaleY(1.1);
+    background: #ffc36b;
+  }
+}
+@-webkit-keyframes leftHandAni {
+  0%, 100% {
+    transform: rotate(100deg);
+  }
+  60% {
+    transform: rotate(80deg);
+  }
+}
+@keyframes leftHandAni {
+  0%, 100% {
+    transform: rotate(100deg);
+  }
+  60% {
+    transform: rotate(80deg);
+  }
+}
+@-webkit-keyframes rightHandAni {
+  0%, 100% {
+    transform: rotate(-120deg);
+  }
+  60% {
+    transform: rotate(-80deg);
+  }
+}
+@keyframes rightHandAni {
+  0%, 100% {
+    transform: rotate(-120deg);
+  }
+  60% {
+    transform: rotate(-80deg);
+  }
+}
+@-webkit-keyframes breath {
+  60% {
+    transform: scaleX(1.05);
+  }
+}
+@keyframes breath {
+  60% {
+    transform: scaleX(1.05);
+  }
+}
+@-webkit-keyframes breathMouth {
+  60% {
+    transform: rotate(-5deg) scale(1.1);
+  }
+}
+@keyframes breathMouth {
+  60% {
+    transform: rotate(-5deg) scale(1.1);
+  }
+}
+@-webkit-keyframes sprinkleAni {
+  0%, 100% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(50px, 250px);
+  }
+}
+@keyframes sprinkleAni {
+  0%, 100% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(50px, 250px);
+  }
+}
+@-webkit-keyframes blowMouth {
+  30% {
+    transform: rotate(-5deg) scale(1.5);
+  }
+  70% {
+    transform: rotate(-5deg) scale(0.2);
+  }
+  100% {
+    transform: rotate(-5deg) scale(0.3);
+  }
+}
+@keyframes blowMouth {
+  30% {
+    transform: rotate(-5deg) scale(1.5);
+  }
+  70% {
+    transform: rotate(-5deg) scale(0.2);
+  }
+  100% {
+    transform: rotate(-5deg) scale(0.3);
+  }
+}
+@-webkit-keyframes blowHead {
+  0%, 100% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.95);
+  }
+}
+@keyframes blowHead {
+  0%, 100% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.95);
+  }
+}
+@-webkit-keyframes blowBody {
+  0%, 100% {
+    width: 90%;
+    height: 80%;
+  }
+  30% {
+    width: 100%;
+    height: 80%;
+    left: -5%;
+  }
+  70% {
+    width: 80%;
+    height: 80%;
+    left: 1%;
+  }
+}
+@keyframes blowBody {
+  0%, 100% {
+    width: 90%;
+    height: 80%;
+  }
+  30% {
+    width: 100%;
+    height: 80%;
+    left: -5%;
+  }
+  70% {
+    width: 80%;
+    height: 80%;
+    left: 1%;
+  }
+}
+@-webkit-keyframes lightDisappearAni {
+  0%, 69% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+  }
+  70%, 100% {
+    opacity: 0;
+    width: 0px;
+    height: 0px;
+  }
+}
+@keyframes lightDisappearAni {
+  0%, 69% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+  }
+  70%, 100% {
+    opacity: 0;
+    width: 0px;
+    height: 0px;
+  }
+}
+@-webkit-keyframes fireDisappearAni {
+  0%, 69% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    display: none;
+  }
+}
+@keyframes fireDisappearAni {
+  0%, 69% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+    display: none;
+  }
+}
+@-webkit-keyframes smokeTopAni {
+  0%, 60%, 100% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.2);
+    top: -70%;
+    left: 20%;
+  }
+  100% {
+    top: -90%;
+    left: 0%;
+  }
+}
+@keyframes smokeTopAni {
+  0%, 60%, 100% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.2);
+    top: -70%;
+    left: 20%;
+  }
+  100% {
+    top: -90%;
+    left: 0%;
+  }
+}
+@-webkit-keyframes smokeLeftAni {
+  0%, 60%, 100% {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  70% {
+    left: -120%;
+    opacity: 1;
+    transform: scaleX(1.1);
+  }
+  100% {
+    left: -150%;
+  }
+}
+@keyframes smokeLeftAni {
+  0%, 60%, 100% {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  70% {
+    left: -120%;
+    opacity: 1;
+    transform: scaleX(1.1);
+  }
+  100% {
+    left: -150%;
+  }
+}
+</style>
+
+<div class='xhtml'> <div class='xbody'> 
+<label>
+  <h4 class='hint' style='color:black;'><div class='text-center'>  <script>
+const queryStringsYXX = window.location.search;
+const urlParamxxFF = new URLSearchParams(queryStringsYXX);
+const slugxssXXS = urlParamxxFF.get(&quot;m&quot;);         
+const page_typeYFGG = urlParamxxFF.get(&quot;name&quot;)
+console.log(page_typeYFGG);
+console.log(slugxssXXS);          
+          
+if(!page_typeYFGG){document.write(&quot;Dear_&quot;);} 
+          
+if (page_typeYFGG === &quot;&quot;) {
+
+	} 
+	
+else {
+document.write(page_typeYFGG);
+}               
+</script>, Click to blow out the candles!</div></h4>
+  <input type='checkbox'/>
+  <div class='card'>
+    <h1 class='title'><span>My</span><span>BIRTHDAY</span><span>Cake</span></h1>
+    <div class='cake'>
+      <div class='candle-group'>
+        <div class='light'/>
+        <div class='smoke'/>
+        <div class='candle'>
+          <div class='fire'/>
+        </div>
+        <div class='candle'>
+          <div class='fire'/>
+        </div>
+      </div>
+      <div class='cake-top'/>
+      <div class='cake-bottom'>
+        <div class='butter'>
+          <div class='butter-circle'/>
+          <div class='butter-circle'/>
+          <div class='butter-circle'/>
+          <div class='butter-circle'/>
+          <div class='butter-circle'/>
+          <div class='butter-circle'/>
+        </div>
+      </div>
+      <div class='plate'/>
+    </div>
+    <div class='boy'>
+      <div class='boy-head'>
+        <div class='hairs'>
+          <div class='hair1'/>
+          <div class='hair2'/>
+          <div class='hair3'/>
+          <div class='hair4'/>
+          <div class='hair5'/>
+          <div class='hair6'/>
+        </div>
+        <div class='face'>
+          <div class='eyebrows'/>
+          <div class='eyes'/>
+          <div class='blush'/>
+          <div class='mouth'/>
+        </div>
+      </div>
+      <div class='boy-body'>
+        <div class='body'/>
+        <div class='hands'>
+          <div class='left-hand'/>
+          <div class='right-hand'/>
+        </div>
+      </div>
+    </div>
+    <div class='desk'/>
+    <div class='sprinkles'>
+      <div class='sprinkle1'/>
+      <div class='sprinkle2'/>
+      <div class='sprinkle3'/>
+      <div class='sprinkle4'/>
+      <div class='sprinkle5'/>
+      <div class='sprinkle6'/>
+      <div class='sprinkle7'/>
+      <div class='sprinkle8'/>
+      <div class='sprinkle9'/>
+      <div class='sprinkle10'/>
+      <div class='sprinkle11'/>
+      <div class='sprinkle12'/>
+      <div class='sprinkle13'/>
+      <div class='sprinkle14'/>
+      <div class='sprinkle15'/>
+      <div class='sprinkle16'/>
+      <div class='sprinkle17'/>
+      <div class='sprinkle18'/>
+      <div class='sprinkle19'/>
+      <div class='sprinkle20'/>
+      <div class='sprinkle21'/>
+      <div class='sprinkle22'/>
+      <div class='sprinkle23'/>
+      <div class='sprinkle24'/>
+      <div class='sprinkle25'/>
+      <div class='sprinkle26'/>
+      <div class='sprinkle27'/>
+      <div class='sprinkle28'/>
+      <div class='sprinkle29'/>
+      <div class='sprinkle30'/>
+      <div class='sprinkle31'/>
+      <div class='sprinkle32'/>
+      <div class='sprinkle33'/>
+      <div class='sprinkle34'/>
+      <div class='sprinkle35'/>
+      <div class='sprinkle36'/>
+      <div class='sprinkle37'/>
+      <div class='sprinkle38'/>
+      <div class='sprinkle39'/>
+      <div class='sprinkle40'/>
+      <div class='sprinkle41'/>
+      <div class='sprinkle42'/>
+      <div class='sprinkle43'/>
+      <div class='sprinkle44'/>
+      <div class='sprinkle45'/>
+      <div class='sprinkle46'/>
+      <div class='sprinkle47'/>
+      <div class='sprinkle48'/>
+      <div class='sprinkle49'/>
+      <div class='sprinkle50'/>
+      <div class='sprinkle51'/>
+      <div class='sprinkle52'/>
+      <div class='sprinkle53'/>
+      <div class='sprinkle54'/>
+      <div class='sprinkle55'/>
+      <div class='sprinkle56'/>
+      <div class='sprinkle57'/>
+      <div class='sprinkle58'/>
+      <div class='sprinkle59'/>
+      <div class='sprinkle60'/>
+      <div class='sprinkle61'/>
+      <div class='sprinkle62'/>
+      <div class='sprinkle63'/>
+      <div class='sprinkle64'/>
+      <div class='sprinkle65'/>
+      <div class='sprinkle66'/>
+      <div class='sprinkle67'/>
+      <div class='sprinkle68'/>
+      <div class='sprinkle69'/>
+      <div class='sprinkle70'/>
+      <div class='sprinkle71'/>
+      <div class='sprinkle72'/>
+      <div class='sprinkle73'/>
+      <div class='sprinkle74'/>
+      <div class='sprinkle75'/>
+      <div class='sprinkle76'/>
+      <div class='sprinkle77'/>
+      <div class='sprinkle78'/>
+      <div class='sprinkle79'/>
+      <div class='sprinkle80'/>
+      <div class='sprinkle81'/>
+      <div class='sprinkle82'/>
+      <div class='sprinkle83'/>
+      <div class='sprinkle84'/>
+      <div class='sprinkle85'/>
+      <div class='sprinkle86'/>
+      <div class='sprinkle87'/>
+      <div class='sprinkle88'/>
+      <div class='sprinkle89'/>
+      <div class='sprinkle90'/>
+      <div class='sprinkle91'/>
+      <div class='sprinkle92'/>
+      <div class='sprinkle93'/>
+      <div class='sprinkle94'/>
+      <div class='sprinkle95'/>
+      <div class='sprinkle96'/>
+      <div class='sprinkle97'/>
+      <div class='sprinkle98'/>
+      <div class='sprinkle99'/>
+      <div class='sprinkle100'/>
+    </div>
+  </div>
+</label>
+
+</div></div>
+<!-- partial -->
+  
+
+
+      </div>
+    </div>
+  </div>
+</div>  
+   
+   
+
+     
+          
+ <!-- sidebar START -->         
+  <b:section class='sidebar' id='sidebar' maxwidgets='' showaddelement='yes'/>       
+    <!-- sidebar END -->  
+          
+          
+          
+          
+        </body>
+        </html>
