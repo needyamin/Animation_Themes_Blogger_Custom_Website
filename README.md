@@ -30,7 +30,15 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 > Blogger Free Website
 
-............................................................
+
+| Technology            |    Version        | Description                                      |
+|-----------------------|-------------------|--------------------------------------------------|
+| Bootstrap             | v5.0              | Latest Version of bootstrap                      |
+| JavaScript            | latest            | Core JaVaScript                                  |
+| Blogger Free Website  | V3                | Blogger Free Website and subdomain               |
+
+
+
 > Video Demo: https://youtu.be/mxmmyKVsVzU
 
 > Live Website: https://birthday.ansnew.com/?name=Target_Names
