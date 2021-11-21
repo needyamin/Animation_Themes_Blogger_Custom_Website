@@ -24,12 +24,6 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 
 # Technology Used
-> Bootstrap v5.0
-
-> JavaScript
-
-> Blogger Free Website
-
 
 | Technology            |    Version        | Description                                      |
 |-----------------------|-------------------|--------------------------------------------------|
