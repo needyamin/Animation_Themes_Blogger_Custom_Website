@@ -2,7 +2,7 @@
 Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 # Hello World!
-> Are you looking for how to install this blogger templete?
+> How to install this blogger templete? Follow the instructions below!
 
 > At first go to https://blogger.com 
 
@@ -36,6 +36,10 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 > Video Demo: https://youtu.be/mxmmyKVsVzU
 
 > Live Website: https://birthday.ansnew.com/?name=Target_Names
+
+
+# How to create template on blogspot/blogger? 
+> Create blogger template from scratch https://www.ansnew.com/2021/11/create-blogger-template-from-scratch.html
 
 
 
