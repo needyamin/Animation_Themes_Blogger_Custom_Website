@@ -6,7 +6,7 @@ Make Your Own Happy Birthday Animation Website Just In 2 Minutes With Free Blog
 
 > At first go to https://blogger.com 
 
-> Create your own blog [Do google if you don't know how to create blogger.com blogs]
+> Create your own blog [https://www.ansnew.com/2021/11/create-blogger-template-from-scratch.html]
 
 > Then go to "Theme" options
 
