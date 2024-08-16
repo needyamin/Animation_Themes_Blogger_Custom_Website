@@ -507,7 +507,7 @@ let intervalID = setInterval(() =&gt; {
   }
 }, 90);
   
-  </script>
+</script>
 
 
    <div class='container'> 
