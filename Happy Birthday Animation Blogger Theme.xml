@@ -10,15 +10,15 @@
     <meta content='Hugo 0.84.0' name='generator'/>
     <title><data:blog.pageTitle/></title>
     <link href='https://birthday.ansnew.com' rel='canonical'/> 
-    <meta content='Md. Yamin Hossain' name='author'/>
-    <meta content='It is my Birthday! Thanks For The Birthday Wishes Dear' name='description'/>
+    <meta content='Md. Arslan Malik' name='author'/>
+    <meta content='ITS YOUR BIRTHDAY, BEST WISHES FROM ARSLAN' name='description'/>
     <meta content='happybirthday,theme,template,programmer,developer' name='keywords'/>  
    
    <!-- Meta For Facebook -->
    <meta content='https://needyaminbirthday.blogspot.com/' property='og:url'/>
    <meta content='article' property='og:type'/>
    <meta content='Thanks For The Birthday Wishes!' property='og:title'/>
-   <meta content='It is my Birthday! Thanks For The Birthday Wishes Dear' property='og:description'/>
+   <meta content='HAPPY BIRTHDAY CUTIE' property='og:description'/>
    <meta content='https://1.bp.blogspot.com/-z6as_9sBhYY/YNQxG-86kYI/AAAAAAAAItU/YgD_dpNtjB0Ycd1J4D69ZQRm_oAd2wPWACLcBGAsYHQ/s1242/YAMiN.png' property='og:image'/>
    
  
@@ -436,8 +436,8 @@ const card = document.querySelector(&quot;.front face back face&quot;);
 
 script = `
     .....
-Hello Dear!
-  Just an another year goes.. 
+HAPPY BIRTHDAY CUTIEEEE!
+  .. 
     
 if goal==True: life = success; 
     else: life = learn;
